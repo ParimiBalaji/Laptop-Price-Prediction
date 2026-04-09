@@ -1,5 +1,5 @@
-#  Laptop Price Prediction (Machine Learning Project)
-
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/15dc8f23-df80-438a-b903-48ba6bbe66bf" />#  Laptop Price Prediction (Machine Learning Project)
+# Project Link: https://laptop-price-prediction-machine-learning.streamlit.app/
 ##  Problem Statement
 
 Laptop prices vary significantly based on specifications like RAM, CPU, GPU, storage, and display features.
